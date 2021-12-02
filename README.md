@@ -17,7 +17,7 @@
 
 ## Plot the OPEN signal and the CLOSE signal
 
-#### ONLY LONG POSITION BACKTESTING
+#### SHORT POSITION BACKTESTING
 
 ![Alt text](img/plot-signal.png?raw=true)
 
