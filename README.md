@@ -1,3 +1,11 @@
+# Trading Strategy Explorer
+
+Notebooks and scripts to test draft strategies for automatic trading.
+Dataset available EOS / BTC 2020-2021 
+
+written by:
+Ermano Buikis
+
 ### Run
 1. jupyter-notebook 
 	OR <br>
