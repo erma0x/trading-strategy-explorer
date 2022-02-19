@@ -3,9 +3,8 @@
 Notebooks and scripts to test draft strategies for automatic trading.
 Dataset available EOS / BTC 2020-2021 
 
-### How to Run
-
- 1)
+### Run 
+1) Run Jupyter Notebook in the shell
 ```
 jupyter-notebook 
 ```
