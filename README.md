@@ -3,17 +3,19 @@
 Notebooks and scripts to test draft strategies for automatic trading.
 Dataset available EOS / BTC 2020-2021 
 
-written by:
-Ermano Buikis
+### How to Run
 
-### Run
-1. jupyter-notebook 
-	OR <br>
-   jupyter-lab <br>
+ 1)
+```
+jupyter-notebook 
+```
+OR <br>
+```
+jupyter-lab
+```
 
-3. run the whole notebook 
-
-4. modify the strategy parameters 
+2) Run the hole notebook
+3) Modify the strategy parameters 
 
 <br>
 
