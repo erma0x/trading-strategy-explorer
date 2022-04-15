@@ -18,9 +18,14 @@ jupyter-lab
 
 <br>
 
+## Installation
+
+pip install matplotlib
+pip install seaborn
+
 ## Example of an operation output
 
-![Alt text](img/operation-output.png?raw=true)
+![Alt text](img/operations.png?raw=true)
 
 <br>
 
@@ -28,10 +33,10 @@ jupyter-lab
 
 #### SHORT POSITION BACKTESTING
 
-![Alt text](img/plot-signal.png?raw=true)
+![Alt text](img/index.png?raw=true)
 
 <br>
 
 ## Plot the Equity under this strategy
 
-![Alt text](img/plot-equity.png?raw=true)
+![Alt text](img/index1.png?raw=true)
