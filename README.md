@@ -5,14 +5,9 @@ Dataset available EOS / BTC 2020-2021
 
 ### Run 
 1) Run Jupyter Notebook in the shell
-```
-jupyter-notebook 
-```
-OR <br>
-```
-jupyter-lab
-```
-
+```jupyter-notebook```
+OR 
+``` jupyter-lab```
 2) Run the hole notebook
 3) Modify the strategy parameters 
 
