@@ -5,14 +5,9 @@ Dataset available EOS / BTC 2020-2021
 
 ### Run 
 1) Run Jupyter Notebook in the shell
-```
-jupyter-notebook 
-```
-OR <br>
-```
-jupyter-lab
-```
-
+```jupyter-notebook```
+OR 
+``` jupyter-lab```
 2) Run the hole notebook
 3) Modify the strategy parameters 
 
@@ -20,6 +15,7 @@ jupyter-lab
 
 ## Installation
 
+pip install pandas
 pip install matplotlib
 pip install seaborn
 
@@ -29,14 +25,14 @@ pip install seaborn
 
 <br>
 
-## Plot the OPEN signal and the CLOSE signal
+## Plot the open and close signals
 
-#### SHORT POSITION BACKTESTING
+#### SHORT positioning backtesting
 
 ![Alt text](img/index.png?raw=true)
 
 <br>
 
-## Plot the Equity under this strategy
+## Plot the equity under this strategy
 
 ![Alt text](img/index1.png?raw=true)
