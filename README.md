@@ -19,7 +19,7 @@ pip install pandas
 pip install matplotlib
 pip install seaborn
 
-## Example of an operation output
+## Operations output examples
 
 ![Alt text](img/operations.png?raw=true)
 
