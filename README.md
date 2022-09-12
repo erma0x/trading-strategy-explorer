@@ -15,9 +15,11 @@ OR
 
 ## Installation
 
+```
 pip install pandas
 pip install matplotlib
 pip install seaborn
+```
 
 ## Operations output examples
 
