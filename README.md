@@ -3,7 +3,24 @@
 Notebooks and scripts to test draft strategies for automatic trading.
 Dataset available EOS / BTC 2020-2021 
 
-### Run 
+## Operations output examples
+
+![Alt text](img/operations.png?raw=true)
+
+<br>
+
+## Plot the open and close signals
+
+![Alt text](img/index.png?raw=true)
+
+<br>
+
+## Plot the equity of this strategy
+
+![Alt text](img/index1.png?raw=true)
+
+
+### How to run 
 1) Run Jupyter Notebook in the shell
 ```jupyter-notebook```
 OR 
@@ -13,28 +30,7 @@ OR
 
 <br>
 
-## Installation
-
-```
-pip install pandas
-pip install matplotlib
-pip install seaborn
-```
-
-## Operations output examples
-
-![Alt text](img/operations.png?raw=true)
-
-<br>
-
-## Plot the open and close signals
-
-#### SHORT positioning backtesting
-
-![Alt text](img/index.png?raw=true)
-
-<br>
-
-## Plot the equity under this strategy
-
-![Alt text](img/index1.png?raw=true)
+## Installation requirements
+1. `pandas`
+1. `matplotlib`
+1. `seaborn`
